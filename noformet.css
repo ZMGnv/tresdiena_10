@@ -1,3 +1,9 @@
 body{
     background-color: aquamarine;
 }
+div.neparasts{
+    background-color: chartreuse;
+}
+div.parasts{
+    background-color: crimson;
+}
